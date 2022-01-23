@@ -21,7 +21,6 @@
     "telegraf-middleware-console-time": "^2.1.0"
   },
   "devDependencies": {
-    "@crypto-coffee/coingecko-api": "^1.0.1-canary-418a47a.0",
     "@grammyjs/types": "^2.5.1",
     "@types/dotenv": "^8.2.0",
     "@types/node": "^17.0.10",
