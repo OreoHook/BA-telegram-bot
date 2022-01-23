@@ -1,0 +1,113 @@
+welcome: >
+  Hey ${from.first_name}!
+
+  This bot provides background information for students and applicants
+help: This is some example help text
+menu:
+  back: Back
+  main: Main
+  settings: Settings
+  language: Language
+  requirements: University attendance requirements
+  schedule: Schedule
+  extramural: Extramural studies
+  fulltime: Full-time studies
+  students: Students
+  applicants: Applicants
+  faculties: Faculties
+  groups: Groups of faculty
+  bachelor: Information for applicants to the bachelor
+  magistr: Information for applicants to the magistracy
+  committee: Selection committee
+  economics: Faculty of Economics and Law
+  foreign-languages: Faculty of Foreign Languages
+  history: Faculty of History and Philology
+  pedagogy: Faculty of Pedagogy and Methods of Preschool, Primary and Additional Education
+  phys-math-inf: Faculty of Physics, Mathematics, Informatics
+  psychology: Faculty of Psychology and Social Pedagogy
+students:
+  body: >
+    Menu for students
+  requirements: During the educational process, both students and teachers are required to wear masks
+applicants:
+  body: >
+    Menu for applicants
+  fulltime: Information for full time students
+  extramural: Information for extramural students
+faculties:
+  body: >
+    Faculties of the university with contact information
+  economics: >-
+    Faculty of Economics and Law
+
+    - - - - - - - - - - - -
+
+    Abbreviation: ФЭиП
+
+    Dean: Stetsenko I.A.
+
+    Telephone: 60-18-92
+
+    Lecture hall: 521/Л
+  foreign-languages: >-
+    Faculty of Foreign Languages
+
+    - - - - - - - - - - - -
+
+    Abbreviation: ФИЯ
+
+    Dean: Deberdeeva E. E.
+
+    Telephone: 39-37-87
+
+    Lecture hall: 4/И
+  history: >-
+    Faculty of History and Philology
+
+    - - - - - - - - - - - -
+
+    Abbreviation: ФИиФ
+
+    Dean: Ageeva V. A.
+
+    Telephone: 60-15-35
+
+    Lecture hall: 229/Л
+  pedagogy: >-
+    Faculty of Pedagogy and Methods of Preschool, Primary and Additional Education
+
+    - - - - - - - - - - - -
+
+    Abbreviation: ФПиМДНиДО
+
+    Dean: Garmash S.V.
+
+    Telephone: 60-12-03
+
+    Lecture hall: 110/Н
+  phys-math-inf: >-
+    Faculty of Physics, Mathematics, Informatics
+
+    - - - - - - - - - - - -
+
+    Abbreviation: ФФМИ
+
+    Dean: Donskikh S. A.
+
+    Telephone: 60-52-37
+
+    Lecture hall: 204/Ф
+  psychology: >-
+    Faculty of Psychology and Social Pedagogy
+
+    - - - - - - - - - - - -
+
+    Abbreviation: ФПиСП
+
+    Dean: Musika O.A.
+
+    Telephone: 61-24-72
+settings:
+  body: >
+    Bot settings
+  language: Select your language
